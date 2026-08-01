@@ -14,3 +14,23 @@ This project is built as an MVP with a modern Material 3 UI, in-memory storage, 
 - In-memory data store for demo purposes
 
 ## Project Structure
+
+lib/
+main.dart
+screens/
+landing_screen.dart
+home_screen.dart
+students/
+student_list_screen.dart
+student_form_screen.dart
+student_detail_screen.dart
+courses/
+course_list_screen.dart
+course_form_screen.dart
+course_detail_screen.dart
+data/
+data_store.dart
+app_scope.dart
+models/
+student.dart
+course.dart
