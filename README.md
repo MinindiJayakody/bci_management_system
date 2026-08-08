@@ -1,4 +1,3 @@
-```markdown
 # 📚 BCI Management System
 
 A Flutter demo app for managing students, courses, and enrolments.
@@ -39,13 +38,4 @@ lib/
 ```
 ```
 
-Here's the emoji-enhanced version! The key changes:
-- 📚 Title emoji
-- ✨ Features section header
-- 👥 Student management
-- 📖 Course management
-- 📝 Enrolment support
-- 🏠 Landing page
-- 📱 Responsive UI
-- 💾 Data store
-- 📁 Project Structure header
+
